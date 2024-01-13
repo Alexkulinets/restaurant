@@ -5,12 +5,12 @@ parallax
         x:"-20wh"
     })
     .to('.gsap-image', {
-        x:"65vw",
+        x:"75vw",
         y:"-26vw",
         scale:3
     })
     .to('.gsap-image', {
-        x:"64.5vw",
+        x:"74.5vw",
         y:"-25.5vw",
         scale:2.95  
     })
